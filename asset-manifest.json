@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/odonto-stetic/static/css/main.689fbda2.css",
+    "main.js": "/odonto-stetic/static/js/main.fc1477cd.js",
+    "static/js/453.fdf00b40.chunk.js": "/odonto-stetic/static/js/453.fdf00b40.chunk.js",
+    "static/media/Banner1.png": "/odonto-stetic/static/media/Banner1.cb1218acdd3f8ffab1d2.png",
+    "static/media/Banner2.png": "/odonto-stetic/static/media/Banner2.908ae2f277cc1377269d.png",
+    "static/media/Modelo1.png": "/odonto-stetic/static/media/Modelo1.11053d1e085da8ecee24.png",
+    "static/media/perfil.png": "/odonto-stetic/static/media/perfil.0843651f280b64ff253b.png",
+    "static/media/Banner3.png": "/odonto-stetic/static/media/Banner3.b2b9eeccb81467804f9a.png",
+    "static/media/Man.png": "/odonto-stetic/static/media/Man.9e45ae2af06da6bd5879.png",
+    "static/media/logo.png": "/odonto-stetic/static/media/logo.05651d283318c2034690.png",
+    "static/media/about.jpg": "/odonto-stetic/static/media/about.b4b73c877b8d9b2d2421.jpg",
+    "static/media/ortodoncia.jpg": "/odonto-stetic/static/media/ortodoncia.5a7b992900c9d6c3927b.jpg",
+    "static/media/logo-sin-fondo.png": "/odonto-stetic/static/media/logo-sin-fondo.2414174d8accf7ec69cd.png",
+    "static/media/vision.jpg": "/odonto-stetic/static/media/vision.02ac72241dc8d292fad3.jpg",
+    "static/media/mission.jpg": "/odonto-stetic/static/media/mission.5d342d27fcd7a24ff4e3.jpg",
+    "static/media/MikeSoft.png": "/odonto-stetic/static/media/MikeSoft.109999f3bfa80aade117.png",
+    "static/media/qr.png": "/odonto-stetic/static/media/qr.2d1713e1ff033f67a23b.png",
+    "static/media/cirugia.jpg": "/odonto-stetic/static/media/cirugia.3bb489a0711c01c121d6.jpg",
+    "static/media/implantes.jpg": "/odonto-stetic/static/media/implantes.0065577dd24e67fa38dd.jpg",
+    "static/media/endodoncia.jpg": "/odonto-stetic/static/media/endodoncia.918d23894b7cbd8d56a5.jpg",
+    "static/media/blanqueamiento.jpg": "/odonto-stetic/static/media/blanqueamiento.d877f7f05a4d18fd03b2.jpg",
+    "static/media/protesis.jpg": "/odonto-stetic/static/media/protesis.aa46e934b901281f5c43.jpg",
+    "static/media/maps.svg": "/odonto-stetic/static/media/maps.664e120e15b10ad52af540a5cbf730d0.svg",
+    "static/media/whatsapp.svg": "/odonto-stetic/static/media/whatsapp.6b1cea7ff7a64568d1aa948a79a5d8d7.svg",
+    "index.html": "/odonto-stetic/index.html",
+    "main.689fbda2.css.map": "/odonto-stetic/static/css/main.689fbda2.css.map",
+    "main.fc1477cd.js.map": "/odonto-stetic/static/js/main.fc1477cd.js.map",
+    "453.fdf00b40.chunk.js.map": "/odonto-stetic/static/js/453.fdf00b40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.689fbda2.css",
+    "static/js/main.fc1477cd.js"
+  ]
+}
