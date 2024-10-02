@@ -30,7 +30,7 @@ root.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/odonto-stetic">
         <App />
       </BrowserRouter>
     </ThemeProvider>
