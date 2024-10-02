@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/odonto-stetic/static/css/main.689fbda2.css",
-    "main.js": "/odonto-stetic/static/js/main.fc1477cd.js",
+    "main.js": "/odonto-stetic/static/js/main.6becc504.js",
     "static/js/453.fdf00b40.chunk.js": "/odonto-stetic/static/js/453.fdf00b40.chunk.js",
     "static/media/Banner1.png": "/odonto-stetic/static/media/Banner1.cb1218acdd3f8ffab1d2.png",
     "static/media/Banner2.png": "/odonto-stetic/static/media/Banner2.908ae2f277cc1377269d.png",
@@ -26,11 +26,11 @@
     "static/media/whatsapp.svg": "/odonto-stetic/static/media/whatsapp.6b1cea7ff7a64568d1aa948a79a5d8d7.svg",
     "index.html": "/odonto-stetic/index.html",
     "main.689fbda2.css.map": "/odonto-stetic/static/css/main.689fbda2.css.map",
-    "main.fc1477cd.js.map": "/odonto-stetic/static/js/main.fc1477cd.js.map",
+    "main.6becc504.js.map": "/odonto-stetic/static/js/main.6becc504.js.map",
     "453.fdf00b40.chunk.js.map": "/odonto-stetic/static/js/453.fdf00b40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689fbda2.css",
-    "static/js/main.fc1477cd.js"
+    "static/js/main.6becc504.js"
   ]
 }
